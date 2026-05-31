@@ -96,9 +96,3 @@ pip install -r requirements.txt
 # Run the pipeline
 # TODO: add run instructions
 ```
- 
----
- 
-##  Demo
- 
-> 🚧 Demo coming soon.
