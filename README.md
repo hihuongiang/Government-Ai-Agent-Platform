@@ -89,12 +89,9 @@ A government wants to leverage both national and cross-country data to derive ec
  
 ```bash
 # Clone the repository
-git clone https://github.com/DataMeowTt/Government-Ai-Agent-Platform.git
+git clone https://github.com/hihuongiang/Government-Ai-Agent-Platform.git
 cd Government-Ai-Agent-Platform
  
 # Install dependencies
 pip install -r requirements.txt
- 
-# Run the pipeline
-# TODO: add run instructions
 ```
